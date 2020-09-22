@@ -1,0 +1,18 @@
+{
+  "name": "Joshua Pedro",
+  "short_name": "Joshua Pedro",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_huc49cc5e24c8d78d559f5c1bebacdc09d_9666_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huc49cc5e24c8d78d559f5c1bebacdc09d_9666_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
